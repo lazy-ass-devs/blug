@@ -5,4 +5,6 @@
 - Install [NodeJS](https://nodejs.org/en/)
 - Download the project
 - Go to project root and run ```npm install``` in your command line.
-- Visit your [local server](http://localhost:5000) in port 5000.
+- Run ```npm run dev``` 
+- Go to the ```client``` folder and run ```npm run serve```
+- Visit your [local server](http://localhost:8080) in port 8080.
