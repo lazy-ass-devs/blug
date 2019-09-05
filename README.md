@@ -1,5 +1,5 @@
 # Blug
-*An NodeJS blog application with express and vue framework*
+*A NodeJS blog application with express and vue framework*
 
 ## Running the project
 - Install [NodeJS](https://nodejs.org/en/)
